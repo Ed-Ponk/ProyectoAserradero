@@ -63,8 +63,10 @@ body{
 }
 
 .form__title{
+    color: #696F80;
     font-size: 2rem;
     margin-bottom: .5em;
+    
 }
 
 .form__container{
